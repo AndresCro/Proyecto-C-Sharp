@@ -1,0 +1,9 @@
+C:\Users\AValv\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\AValv\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\AValv\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\AValv\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\AValv\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\AValv\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\AValv\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\AValv\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
